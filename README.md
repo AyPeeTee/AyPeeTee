@@ -11,7 +11,8 @@
 - ✔ Honest Calculator
 - ✔ Simple Chatty Bot
 - ✔ Loan Calculator
-- 🔜 Hangman
+- ✔ Hangman
+- 🔜 Soon
 
 ### Contacts
 <a href=https://www.linkedin.com/in/artiom-topala-7a91b1231><img src="demo/linkedin.png" width=50 height=50></a>
