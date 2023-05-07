@@ -3,7 +3,7 @@
 <p></p>
 
 ### Skills
-<p align="left"><img src="demo/java.png" alt="java-logo" height=50 width=50></p><img src="demo/python.png" alt="python-logo" height=50 width=50>
+<p align="left"><img src="demo/java.png" alt="java-logo" height=50 width=50><img src="demo/python.png" alt="python-logo" height=50 width=50></p>
 
 ### Projects
 
