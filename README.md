@@ -12,7 +12,7 @@
 - <img src="demo/python.png" alt="python-logo" height=20 width=20> Simple Chatty Bot
 - <img src="demo/python.png" alt="python-logo" height=20 width=20> Loan Calculator
 - <img src="demo/python.png" alt="python-logo" height=20 width=20> Hangman
-- 🔜 <img src="demo/java.png" alt="java-logo" height=20 width=20> Coffee Machine
+- 🔜 <img src="demo/java.png" alt="java-logo" height=20 width=20> Amazing Numbers
 
 ### Contacts
 <a href=https://www.linkedin.com/in/artiom-topala-7a91b1231><img src="demo/linkedin.png" width=50 height=50></a>
